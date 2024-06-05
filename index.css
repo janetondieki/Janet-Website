@@ -1,0 +1,13 @@
+button{
+    color: beige;
+    background-color: black;
+}
+h1{
+    color: bisque;
+    background-color: black;
+}
+.wrapper-main {
+    width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+}
